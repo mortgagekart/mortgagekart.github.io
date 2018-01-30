@@ -4,9 +4,11 @@
     transform: rotate3d(0,0,1,90deg) translateY(500px);
 }
 
+/*
 .showme{
     display: none;
 }
+*/
 
 #items16{
     filter: none;
